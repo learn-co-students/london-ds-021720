@@ -7,3 +7,5 @@ Here you can find all of our lecture materials and materials needed for the cour
 Note that YOU JUST NEED TO ```git pull``` this repo! 
 
 If you want to make changes to follow along, please use the `student` directory at the top level of this repo.
+
+Add another line in here
