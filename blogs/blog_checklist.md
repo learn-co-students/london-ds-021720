@@ -20,8 +20,20 @@ Here are some examples of sucessful introduction and technical posts we have see
 
 ### Introduction Posts
 
+* [Gambling and Data Science](https://medium.com/@joepeirson/b57b32d0354a)  
+* [Marketing and Data Science](https://medium.com/@shuyuwusw/can-we-integrate-marketing-decision-with-machine-learning-aa80add2640f)
+* [Archeology and Data Science](https://medium.com/@mina_77131/why-i-am-learning-data-science-9076a4123ced) 
+
 ### Techncial Posts
 
+* [Clustering Walk Through](https://towardsdatascience.com/clustering-with-k-means-1e07a8bfb7ca)
+* [Example Analysis](https://medium.com/analytics-vidhya/are-we-living-in-a-sustainable-world-using-deep-learning-som-to-find-answers-d97ac5445ac9_)
+* [AIC and BIC in Regression Selection](https://medium.com/@louisbademosi_20360/57b3e12685d)
+
+### Thoughts on Blogging
+
+* [Why to Start a Data Science Blog](http://varianceexplained.org/r/start-blog/)
+* [Dave's Personal Opinion on Blogs after Getting in a discussion with a former student about the point of blogs](https://davidjohnbaker.rbind.io/post/blog-on-blogs/)
 
 ## Blog Checklist 
 
