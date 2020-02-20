@@ -39,7 +39,7 @@ Here are some examples of sucessful introduction and technical posts we have see
 
 For each post, we ask you to complete the following:
 
-* [ ] Mark in all *FIVE* project presentations in your calendar
+* [ ] Mark in all *FIVE* blog presentations in your calendar
 * [ ] Get topic approved *five* working days before your presenation. Do this by messaging your cohort lead via slack. 
 * [ ] Send a mimimal outline to your lead *three* working days befor e you present. The details of your mimimal outline can be found in `blogs_overview.md` 
 * [ ] Present your blog to at least one peer *one* day before your presentaiton. This can just be over a cup of coffee. Incorporate at least one suggestion from your peer.
