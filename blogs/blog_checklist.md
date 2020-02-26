@@ -14,9 +14,9 @@ Given this ordering, you should be able to plan all of your blogs accordingly.
 Please mark them in your diaries now even though they are not in your course calendar yet.
 
 Your first blog topic will be a post about yourself and why you got into data science.
-Your later posts will focus on some sort of techncial topics.
+Your later posts will focus on some sort of technical topics.
 
-Here are some examples of sucessful introduction and technical posts we have seen in the past:
+Here are some examples of successful introduction and technical posts we have seen in the past:
 
 ### Introduction Posts
 
@@ -40,13 +40,13 @@ Here are some examples of sucessful introduction and technical posts we have see
 For each post, we ask you to complete the following:
 
 * [ ] Mark in all *FIVE* blog presentations in your calendar
-* [ ] Get topic approved *five* working days before your presenation. Do this by messaging your cohort lead via slack. 
-* [ ] Send a mimimal outline to your lead *three* working days befor e you present. The details of your mimimal outline can be found in `blogs_overview.md` 
+* [ ] Get topic approved *five* working days before your presentation. Do this by messaging your cohort lead via slack. 
+* [ ] Send a mimimal outline to your lead *three* working days before you present. The details of your mimimal outline can be found in `blogs_overview.md` 
 * [ ] Present your blog to at least one peer *one* day before your presentaiton. This can just be over a cup of coffee. Incorporate at least one suggestion from your peer.
 * [ ] Add the link to the location of your blog to your cohort blog google sheet so it can be accessed in class.  
 * [ ] For your *first two technical posts* we ask that you stick to the template suggestions made in `blogs_overview.md` which consists of following the four main sections of a data science analysis. 
 
-After this document is introduced, you will also have session on *How to write a blog* led by an instructor or coach in the days followoing. 
+After this document is introduced, you will also have session on *How to write a blog* led by an instructor or coach in the days following. 
 During the current session or the following session we will also demonstrate how to present your blog within your five minute window. 
 
 
