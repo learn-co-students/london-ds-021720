@@ -1,0 +1,575 @@
+[
+   {
+      "show" : {
+         "url" : "http://www.tvmaze.com/shows/43042/mean-mums",
+         "externals" : {
+            "imdb" : "tt10613170",
+            "thetvdb" : 366937,
+            "tvrage" : null
+         },
+         "genres" : [
+            "Comedy"
+         ],
+         "name" : "Mean Mums",
+         "status" : "Running",
+         "image" : {
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/205/513475.jpg",
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/205/513475.jpg"
+         },
+         "_links" : {
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/1705683"
+            },
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/43042"
+            }
+         },
+         "premiered" : "2019-07-16",
+         "id" : 43042,
+         "summary" : "<p>When Jess's only son starts school it's a big learning curve, for Jess. She's thrown into a world of know-it-all, judgmental, passive aggressive women whose primary purpose is to promote their child as the most gifted, most brilliant and most bestest child ever. And let's not even start on the teachers. Joining the Junior Fundraising Committee to help establish herself in the school community, Jess hopes that her efforts might also help her to find some companionship, but alpha mum Heather is more interested in making money than making friends. Luckily, super chill mother-of-five Hine is there to play peacemaker. Together the mums must reach a ridiculous fundraising goal, with limited resources and a poor grasp of teamwork. Things aren't looking super great.</p>",
+         "network" : {
+            "name" : "Three",
+            "id" : 292,
+            "country" : {
+               "name" : "New Zealand",
+               "timezone" : "Pacific/Auckland",
+               "code" : "NZ"
+            }
+         },
+         "language" : "English",
+         "officialSite" : "https://www.threenow.co.nz/shows/mean-mums/S2045-087",
+         "schedule" : {
+            "days" : [
+               "Tuesday"
+            ],
+            "time" : "20:35"
+         },
+         "rating" : {
+            "average" : 8
+         },
+         "webChannel" : null,
+         "updated" : 1574365473,
+         "type" : "Scripted",
+         "runtime" : 30,
+         "weight" : 57
+      },
+      "score" : 19.615147
+   },
+   {
+      "show" : {
+         "url" : "http://www.tvmaze.com/shows/32020/mean-machines",
+         "externals" : {
+            "tvrage" : null,
+            "thetvdb" : 265676,
+            "imdb" : "tt0486534"
+         },
+         "genres" : [],
+         "status" : "Ended",
+         "name" : "Mean Machines",
+         "image" : {
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/128/320240.jpg",
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/128/320240.jpg"
+         },
+         "_links" : {
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/1306744"
+            },
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/32020"
+            }
+         },
+         "premiered" : "2005-11-10",
+         "id" : 32020,
+         "summary" : "<p>The show with a mission, to hunt down the most exciting mechanical monsters on the planet. We'll take you right inside the biggest, baddest, strongest, and fastest machines around.</p>",
+         "schedule" : {
+            "time" : "",
+            "days" : []
+         },
+         "network" : {
+            "id" : 143,
+            "name" : "Discovery Channel",
+            "country" : {
+               "name" : "United Kingdom",
+               "code" : "GB",
+               "timezone" : "Europe/London"
+            }
+         },
+         "officialSite" : null,
+         "language" : "English",
+         "webChannel" : null,
+         "rating" : {
+            "average" : null
+         },
+         "type" : "Documentary",
+         "updated" : 1505764366,
+         "weight" : 0,
+         "runtime" : 30
+      },
+      "score" : 14.389973
+   },
+   {
+      "score" : 11.291972,
+      "show" : {
+         "image" : {
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/32/82431.jpg",
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/32/82431.jpg"
+         },
+         "genres" : [
+            "Comedy"
+         ],
+         "name" : "Love You, Mean It with Whitney Cummings",
+         "status" : "Ended",
+         "url" : "http://www.tvmaze.com/shows/9344/love-you-mean-it-with-whitney-cummings",
+         "externals" : {
+            "thetvdb" : 263967,
+            "imdb" : "tt2385639",
+            "tvrage" : 33144
+         },
+         "updated" : 1477769645,
+         "type" : "Talk Show",
+         "runtime" : 30,
+         "weight" : 0,
+         "language" : "English",
+         "network" : {
+            "id" : 43,
+            "name" : "E!",
+            "country" : {
+               "timezone" : "America/New_York",
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "officialSite" : null,
+         "schedule" : {
+            "days" : [
+               "Wednesday"
+            ],
+            "time" : ""
+         },
+         "rating" : {
+            "average" : null
+         },
+         "webChannel" : null,
+         "premiered" : "2012-11-28",
+         "id" : 9344,
+         "summary" : "<p><b>Love You, Mean It with Whitney Cummings</b> is guided by Cummings' signature humor, and will be a weekly medley of witty commentary featuring Whitney's take on everything from the biggest pop culture and celebrity happenings, to life, relationships, sex, and more. Equipped with only a microphone and her laptop, and joined by celebrity guests and comedian friends, including sidekick Julian McCullough, Whitney gets a chance to return to her stand-up roots, as the outspoken comedienne enjoys free rein to dish on her favorite topics, trends and latest obsessions. Nothing is off limits for this girl who says what everyone else is thinking, whether it's pondering the wisdom of plastic surgery, the folly of miss-matched Hollywood romances or setting the record straight on pressing rumors circulating the web.</p>",
+         "_links" : {
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/9344"
+            },
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/504944"
+            }
+         }
+      }
+   },
+   {
+      "score" : 4.9573965,
+      "show" : {
+         "externals" : {
+            "imdb" : null,
+            "thetvdb" : 296599,
+            "tvrage" : null
+         },
+         "url" : "http://www.tvmaze.com/shows/8803/sean-bean-on-waterloo",
+         "status" : "Ended",
+         "name" : "Sean Bean on Waterloo",
+         "genres" : [
+            "War",
+            "History"
+         ],
+         "image" : {
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/31/78124.jpg",
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/31/78124.jpg"
+         },
+         "_links" : {
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/8803"
+            },
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/483340"
+            }
+         },
+         "summary" : "<p>Hollywood actor Sean Bean tells the story of Waterloo, one of history's most decisive battles. Sean's journey of discovery is inspired by his own experiences of playing Napoleonic soldier Richard Sharpe in TV films based on Bernard Cornwell's best-selling novels. In the programmes he draws on the eye-witness accounts of soldiers who fought at Waterloo to tell the story of the dramatic events of 18 June 1815 as they were experienced by the ordinary soldiers who fought it. He pieces together the chronology of the battle and visits some of the legendary places where the outcome was decided, including the buildings at Hougoumont which witnessed some of the heaviest fighting. He also meets descendants of some of the soldiers who fought at Waterloo, to discover how they remember the achievements of their ancestors.</p>",
+         "id" : 8803,
+         "premiered" : "2015-06-14",
+         "webChannel" : null,
+         "rating" : {
+            "average" : null
+         },
+         "schedule" : {
+            "time" : "22:00",
+            "days" : [
+               "Sunday"
+            ]
+         },
+         "officialSite" : null,
+         "network" : {
+            "country" : {
+               "name" : "United States",
+               "code" : "US",
+               "timezone" : "America/New_York"
+            },
+            "id" : 8,
+            "name" : "HBO"
+         },
+         "language" : "English",
+         "weight" : 62,
+         "runtime" : 60,
+         "type" : "Documentary",
+         "updated" : 1535512541
+      }
+   },
+   {
+      "show" : {
+         "premiered" : "2017-04-21",
+         "id" : 25723,
+         "summary" : "<p>Disguised as a bodyguard, a special agent must complete his national secret tasks while pandering to the whims of his ill-tempered world star.</p>",
+         "_links" : {
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/1111124"
+            },
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/25723"
+            }
+         },
+         "type" : "Scripted",
+         "updated" : 1546458781,
+         "weight" : 16,
+         "runtime" : 60,
+         "schedule" : {
+            "days" : [
+               "Friday",
+               "Saturday"
+            ],
+            "time" : "23:00"
+         },
+         "officialSite" : "http://tv.jtbc.joins.com/manxman",
+         "language" : "Korean",
+         "network" : {
+            "country" : {
+               "code" : "KR",
+               "timezone" : "Asia/Seoul",
+               "name" : "Korea, Republic of"
+            },
+            "id" : 268,
+            "name" : "jTBC"
+         },
+         "webChannel" : null,
+         "rating" : {
+            "average" : null
+         },
+         "genres" : [
+            "Action",
+            "Romance",
+            "Thriller"
+         ],
+         "status" : "Ended",
+         "name" : "Man to Man",
+         "url" : "http://www.tvmaze.com/shows/25723/man-to-man",
+         "externals" : {
+            "imdb" : "tt6032762",
+            "thetvdb" : 323918,
+            "tvrage" : null
+         },
+         "image" : {
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/108/270692.jpg",
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/108/270692.jpg"
+         }
+      },
+      "score" : 3.6090922
+   },
+   {
+      "show" : {
+         "genres" : [
+            "Food"
+         ],
+         "status" : "Ended",
+         "name" : "Meat Men",
+         "url" : "http://www.tvmaze.com/shows/25490/meat-men",
+         "externals" : {
+            "tvrage" : null,
+            "imdb" : "tt2358065",
+            "thetvdb" : 257716
+         },
+         "image" : {
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/99/248201.jpg",
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/99/248201.jpg"
+         },
+         "premiered" : "2012-04-09",
+         "id" : 25490,
+         "summary" : "<p>Pat LaFrieda Jr., the \"Magician of Meat\", has revolutionized the burger and meat industry. Running a third-generation wholesale meat-purveyor business in New Jersey with his cranky dad, Pat Sr., and his smooth-talking cousin, Mark Pastore, Pat and his family have built the company into a meat empire. But with big business comes big problems. Whether it's last-minute requests, creating burger blends and menus for new clients, dealing with difficult customers or navigating the personalities of a 500-person work staff, Meat Men takes viewers on a high-\"steaks\" ride with a side of humor, served medium rare.</p>",
+         "_links" : {
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/1078760"
+            },
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/25490"
+            }
+         },
+         "type" : "Reality",
+         "updated" : 1532574146,
+         "weight" : 0,
+         "runtime" : 30,
+         "schedule" : {
+            "days" : [
+               "Monday"
+            ],
+            "time" : "23:00"
+         },
+         "officialSite" : "http://www.foodnetwork.com/shows/meat-men",
+         "language" : "English",
+         "network" : {
+            "name" : "Food Network",
+            "id" : 81,
+            "country" : {
+               "timezone" : "America/New_York",
+               "code" : "US",
+               "name" : "United States"
+            }
+         },
+         "webChannel" : null,
+         "rating" : {
+            "average" : null
+         }
+      },
+      "score" : 3.5820425
+   },
+   {
+      "score" : 3.0815837,
+      "show" : {
+         "image" : {
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/176/440980.jpg",
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/176/440980.jpg"
+         },
+         "status" : "Running",
+         "name" : "Legends of the Lost with Megan Fox",
+         "genres" : [
+            "Mystery",
+            "Travel",
+            "History"
+         ],
+         "externals" : {
+            "thetvdb" : null,
+            "imdb" : "tt8362844",
+            "tvrage" : null
+         },
+         "url" : "http://www.tvmaze.com/shows/38338/legends-of-the-lost-with-megan-fox",
+         "weight" : 74,
+         "runtime" : 60,
+         "type" : "Documentary",
+         "updated" : 1545926912,
+         "webChannel" : null,
+         "rating" : {
+            "average" : 7.1
+         },
+         "schedule" : {
+            "time" : "20:00",
+            "days" : [
+               "Tuesday"
+            ]
+         },
+         "language" : "English",
+         "network" : {
+            "country" : {
+               "name" : "United States",
+               "timezone" : "America/New_York",
+               "code" : "US"
+            },
+            "name" : "Travel Channel",
+            "id" : 82
+         },
+         "officialSite" : "https://www.travelchannel.com/shows/legends-of-the-lost-with-megan-fox",
+         "id" : 38338,
+         "summary" : "<p>Megan Fox embarks on an epic and personal journey across the globe, where archaeologists and experts will re-examine history, asking tough questions and challenging the conventional wisdom that has existed for centuries. <b>Legends of the Lost with Megan Fox</b> will delve into some of the greatest mysteries of time, including whether Amazon women really existed or if the Trojan War was real.</p>",
+         "premiered" : "2018-12-04",
+         "_links" : {
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/1561560"
+            },
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/38338"
+            }
+         }
+      }
+   },
+   {
+      "score" : 3.081054,
+      "show" : {
+         "url" : "http://www.tvmaze.com/shows/26703/hailey-dean-mysteries",
+         "externals" : {
+            "thetvdb" : 321943,
+            "imdb" : null,
+            "tvrage" : null
+         },
+         "genres" : [
+            "Drama",
+            "Crime",
+            "Mystery"
+         ],
+         "status" : "Running",
+         "name" : "Hailey Dean Mysteries",
+         "image" : {
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/105/262937.jpg",
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/105/262937.jpg"
+         },
+         "_links" : {
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/1616212"
+            },
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/26703"
+            }
+         },
+         "premiered" : "2016-10-23",
+         "summary" : "<p>A series of movies, based on characters from Nancy Grace's best-selling series of Hailey Dean Mystery novels. Former prosecutor-turned-therapist Hailey Dean is a powerhouse, Mensa bright, and acutely observant.</p>",
+         "id" : 26703,
+         "schedule" : {
+            "days" : [
+               "Sunday"
+            ],
+            "time" : "21:00"
+         },
+         "language" : "English",
+         "officialSite" : "https://www.hallmarkmoviesandmysteries.com/hailey-dean-mysteries",
+         "network" : {
+            "country" : {
+               "code" : "US",
+               "timezone" : "America/New_York",
+               "name" : "United States"
+            },
+            "name" : "Hallmark Movies & Mysteries",
+            "id" : 252
+         },
+         "webChannel" : null,
+         "rating" : {
+            "average" : 7.7
+         },
+         "type" : "Scripted",
+         "updated" : 1574624041,
+         "weight" : 79,
+         "runtime" : 120
+      }
+   },
+   {
+      "score" : 2.8605735,
+      "show" : {
+         "webChannel" : null,
+         "rating" : {
+            "average" : 7.8
+         },
+         "schedule" : {
+            "days" : [
+               "Sunday"
+            ],
+            "time" : ""
+         },
+         "language" : "English",
+         "officialSite" : "http://www.fox.com/family-guy",
+         "network" : {
+            "name" : "FOX",
+            "id" : 4,
+            "country" : {
+               "name" : "United States",
+               "timezone" : "America/New_York",
+               "code" : "US"
+            }
+         },
+         "weight" : 99,
+         "runtime" : 30,
+         "type" : "Animation",
+         "updated" : 1582565631,
+         "_links" : {
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/1776046"
+            },
+            "nextepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/1798770"
+            },
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/84"
+            }
+         },
+         "id" : 84,
+         "summary" : "<p><b>Family Guy</b> follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter's wife, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn't have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies' man who is one step away from AA.</p>",
+         "premiered" : "1999-01-31",
+         "image" : {
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/0/641.jpg",
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/0/641.jpg"
+         },
+         "externals" : {
+            "thetvdb" : 75978,
+            "imdb" : "tt0182576",
+            "tvrage" : 3506
+         },
+         "url" : "http://www.tvmaze.com/shows/84/family-guy",
+         "status" : "Running",
+         "name" : "Family Guy",
+         "genres" : [
+            "Comedy",
+            "Family"
+         ]
+      }
+   },
+   {
+      "score" : 2.8202205,
+      "show" : {
+         "updated" : 1574473308,
+         "type" : "Animation",
+         "runtime" : 15,
+         "weight" : 40,
+         "officialSite" : null,
+         "network" : {
+            "country" : {
+               "code" : "GB",
+               "timezone" : "Europe/London",
+               "name" : "United Kingdom"
+            },
+            "name" : "CITV",
+            "id" : 433
+         },
+         "language" : "English",
+         "schedule" : {
+            "time" : "16:00",
+            "days" : [
+               "Monday",
+               "Tuesday",
+               "Wednesday",
+               "Thursday",
+               "Friday"
+            ]
+         },
+         "rating" : {
+            "average" : null
+         },
+         "webChannel" : null,
+         "premiered" : "2002-01-05",
+         "id" : 5251,
+         "summary" : "<p>A clueless yet clever loner bungles his way through life in London.</p>",
+         "_links" : {
+            "self" : {
+               "href" : "http://api.tvmaze.com/shows/5251"
+            },
+            "previousepisode" : {
+               "href" : "http://api.tvmaze.com/episodes/636236"
+            }
+         },
+         "image" : {
+            "medium" : "http://static.tvmaze.com/uploads/images/medium_portrait/21/54964.jpg",
+            "original" : "http://static.tvmaze.com/uploads/images/original_untouched/21/54964.jpg"
+         },
+         "genres" : [
+            "Comedy",
+            "Children"
+         ],
+         "name" : "Mr. Bean",
+         "status" : "Ended",
+         "url" : "http://www.tvmaze.com/shows/5251/mr-bean",
+         "externals" : {
+            "thetvdb" : 78158,
+            "imdb" : "tt0280277",
+            "tvrage" : 4537
+         }
+      }
+   }
+]
