@@ -21,5 +21,6 @@ We will still use this repo for sharing information with the cohort and further 
 |Mod	|Lesson Title			|Link to Github Repo			|
 |-------|-------------------------------|---------------------------------------|
 |2	|Introduction to Probability	|[Repo](https://github.com/learn-co-students/probability-london-ds)|
+|2	|Distributions and Sampling	|[Repo](https://github.com/davidjohnbaker1/distributions-sampling-london-ds)
 
 
